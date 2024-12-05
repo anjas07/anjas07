@@ -34,7 +34,6 @@ I am particularly passionate about **data processing** and **data analysis**.
 ---
 
 ## 🌟 Certifications
-- Bangkit Academy Certification  
 - Dicoding Academy Certification  
 - Rumah Siap Kerja Certification  
 
