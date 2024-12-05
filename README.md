@@ -2,11 +2,13 @@
 
 I am an Information Systems student with a strong interest in coding and data analysis.  
 Currently, I am pursuing my studies at Universitas Muhammadiyah Riau, where I have acquired a strong foundation in programming languages such as HTML, PHP, and C++.  
-I have also worked on several projects involving database design and management, and I am familiar with SQL databases.
+I have also worked on several projects involving database design and management, and I am familiar with SQL databases.  
+I am particularly passionate about **data processing** and **data analysis**.
 
 ---
 
 ## 📂 Projects
+
 ### Campus Website Development Project using Laravel 10 (2023)
 - Developing a database system to manage and store information on faculty members, students, courses, and classrooms.
 - Creating models and controllers for managing data in Laravel 10.
@@ -33,7 +35,8 @@ I have also worked on several projects involving database design and management,
 
 ## 🌟 Certifications
 - Bangkit Academy Certification  
-- Dicoding Academy Certifications  
+- Dicoding Academy Certification  
+- Rumah Siap Kerja Certification  
 
 You can view my certifications in detail in this repository:  
 ➡️ [My Certifications Repository](https://github.com/anjas07/certificate.git)
@@ -43,3 +46,9 @@ You can view my certifications in detail in this repository:
 ## 🌐 LinkedIn
 Feel free to connect with me on LinkedIn:  
 [Arie Anjasmara's LinkedIn](https://www.linkedin.com/in/arie-anjasmara-675600223/)
+
+---
+
+## 📧 Contact
+For any inquiries, feel free to reach out to me via email:  
+📧 [arieanjasmaraaa07@gmail.com](mailto:arieanjasmaraaa07@gmail.com)
