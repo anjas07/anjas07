@@ -43,12 +43,11 @@ You can view my certifications in detail in this repository:
 ---
 
 <p align="left">
-<a href="https://https://arieanjasmara07.com">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anjas07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anjas07&layout=compact&theme=algolia"/>
-</a>
+  <a href="https://arieanjasmara07.com">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anjas07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anjas07&layout=compact&theme=algolia"/>
+  </a>
 </p>
-
 
 ## 🌐 LinkedIn
 Feel free to connect with me on LinkedIn:  
